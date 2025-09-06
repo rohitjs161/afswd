@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+/* Global styles for smooth theme transitions */
+* {
+  transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Dark mode support - Tailwind v4 should handle this automatically */
