@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Perfect 👍 Let’s document the **complete decided project work** clearly first, then I’ll list **implementation steps for Vite coding**.
 
 ---
@@ -233,3 +234,6 @@ npx tailwindcss init -p
 
 ⚡ Now, next step: do you want me to **start coding from Step 1 (Vite setup + Tailwind + Dark Mode)** and build feature-by-feature here, or should I prepare a **starter code template** for you first?
 w
+=======
+# afswd
+>>>>>>> 8ca891de070b36efb5d9e88b789be0a9581afeee
