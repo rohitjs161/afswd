@@ -13,7 +13,8 @@ import CourseList from './components/CourseList';
 import CourseDetails from './components/CourseDetails';
 import CoursePlayer from './components/CoursePlayer';
 import Quiz from './components/Quiz';
-import ProtectedRoute from './components/ProtectedRoute';
+//import ProtectedRoute from './components/ProtectedRoute';
+//this is for testing PR request flow
 
 function App() {
   return (
